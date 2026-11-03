@@ -1,0 +1,10 @@
+/* TEAM */
+Site: HookForge
+Purpose: Free TikTok, YouTube Shorts, Instagram Reels hook and caption generator for US creators
+Contact: /contact/
+
+/* SITE */
+Standards: HTML5, CSS3, vanilla JS
+Doctype: HTML5
+Components: SoftwareApplication + FAQ + HowTo + Article + BreadcrumbList schema
+Language: en-US

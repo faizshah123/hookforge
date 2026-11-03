@@ -1,0 +1,13 @@
+{
+  "name": "HookForge — free TikTok hook generator",
+  "short_name": "HookForge",
+  "description": "Free TikTok, Shorts, and Reels hook, caption, and CapCut text generator. No signup.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0c0e",
+  "theme_color": "#0b0c0e",
+  "lang": "en-US",
+  "icons": [
+    { "src": "/img/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

@@ -1,0 +1,23 @@
+# HookForge
+
+> Free, no-signup generator for TikTok hooks, YouTube Shorts intros, Instagram Reels captions, CapCut on-screen text, and Facebook Reels openers. Built for US creators. English (US).
+
+HookForge is a client-side tool. It does not give medical, legal, or financial advice. It does not scrape platforms.
+
+## Primary pages
+- [Home / generator](/)
+- [TikTok hook generator](/tiktok-hook-generator/)
+- [YouTube Shorts intro generator](/youtube-shorts-intro-generator/)
+- [Instagram Reels caption generator](/instagram-reels-caption-generator/)
+- [CapCut text generator](/capcut-text-generator/)
+- [Facebook Reels hook generator](/facebook-reels-hook-generator/)
+- [Viral hook formulas](/viral-hook-formulas/)
+- [Swipe file](/swipe-file/)
+- [Blog](/blog/)
+- [Embed widget](/embed/)
+
+## Optional
+- [About](/about/)
+- [Contact](/contact/)
+- [Privacy](/privacy/)
+- [Terms](/terms/)

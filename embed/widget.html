@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HookForge widget</title>
+<meta name="robots" content="noindex,follow">
+<meta name="theme-color" content="#0b0c0e">
+<link rel="stylesheet" href="/css/app.css">
+<style>
+  body{background:#0b0c0e;margin:0}
+  .wrap{width:min(520px,calc(100% - 16px));padding:8px 0 16px}
+  h1{font-size:1.25rem;margin:8px 0}
+</style>
+</head>
+<body data-platform="tiktok">
+<main id="main" class="wrap">
+  <p class="kicker">Free widget</p>
+  <h1>Hook generator</h1>
+  <form id="hook-form" class="card">
+    <label for="niche">Niche</label>
+    <select id="niche" name="niche" required></select>
+    <label for="platform">Platform</label>
+    <select id="platform" name="platform" required></select>
+    <label for="idea">Video idea</label>
+    <textarea id="idea" name="idea" required maxlength="240" placeholder="thrift flip a $4 jacket"></textarea>
+    <label for="tone">Tone</label>
+    <select id="tone" name="tone"></select>
+    <label for="count">How many</label>
+    <select id="count"><option value="8" selected>8</option></select>
+    <div class="actions">
+      <button class="btn btn-lime" type="submit">Generate</button>
+    </div>
+  </form>
+  <section id="results-wrap" hidden>
+    <div class="out" id="results"></div>
+  </section>
+  <p><a href="https://hookforge.app/" target="_blank" rel="noopener">Full HookForge tool</a></p>
+</main>
+<script src="/js/data.js" defer></script>
+<script src="/js/app.js" defer></script>
+</body>
+</html>
