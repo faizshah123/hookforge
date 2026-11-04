@@ -50,13 +50,6 @@ def rewrite(text: str) -> str:
         abs_url,
         text,
     )
-    text = text.replace(f"Sitemap: {site}/sitemap.xml", f"Sitemap: {site}/sitemap.xml")
-    if "Sitemap:" in text and base:
-        text = re.sub(
-            r"Sitemap:\s+\S+",
-            f"Sitemap: {site}/sitemap.xml",
-            text,
-        )
     return text
 
 

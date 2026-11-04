@@ -9,3 +9,4 @@ User-agent: Google-Extended
 Allow: /
 
 Sitemap: https://hookforge.app/sitemap.xml
+Sitemap: https://hookforge.app/sitemap.txt
